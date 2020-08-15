@@ -2,12 +2,13 @@
  <img width = '200' height ='200' src ="image/kagurayayoi.jpg">
   
   # KaguraYayoi  神楽弥生
-  ### 愿我们能在更开放的平行世界相遇
-  #### Hope we can meet in a more open parallel world.
+  ##### 愿我们能在更开放的平行世界相遇
+  ###### Hope we can meet in a more open parallel world.
+  ![Top Langs](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=Fjaxzhy&hide=html)
   
 </div>
 
-![Top Langs](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=Fjaxzhy&hide=html)
+
 ![KaguraYayoi's stats](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=Fjaxzhy&show_icons=true&count_private=true&line_height=30)
 ###### _MarkDown格式借鉴 [Jannchie见齐](https://github.com/Jannchie)_
 
