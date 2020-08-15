@@ -7,4 +7,4 @@ _Hope we can meet in a more open parallel world._
     最近在搞Bot和学习Python (酷Q R.I.P.)
 
 ![Top Langs](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=Fjaxzhy&hide=html)
-![KaguraYayoi's stats](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=Fjaxzhy&show_icons=true&count_private=true&line_height=34)
+![KaguraYayoi's stats](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=Fjaxzhy&show_icons=true&count_private=true&line_height=33.85)
