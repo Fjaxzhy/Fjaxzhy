@@ -1,5 +1,5 @@
 <div align=center>
- <img width = '200' height ='200' src ="image/kagurayayoi.jpg">
+ <img width = '550' height ='200' src ="image/kagurayayoi.jpg">
   
   # KaguraYayoi  神楽弥生
   ##### 愿我们能在更开放的平行世界相遇
