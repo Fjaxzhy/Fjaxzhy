@@ -1,4 +1,10 @@
-### Hi there 👋
+## 愿我们能在更开放的平行世界相遇
+### Hope we can meet in a more open parallel world.
+
+![Top Langs](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=Fjaxzhy&hide=html)
+![KaguraYayoi's stats](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=Fjaxzhy&show_icons=true&count_private=true&line_height=33.7)
+
+
 
 <!--
 **Fjaxzhy/Fjaxzhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
