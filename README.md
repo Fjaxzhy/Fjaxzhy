@@ -12,6 +12,15 @@ _Hope we can meet in a more open parallel world._
 [![Mail](https://img.shields.io/badge/Mail-kagurayayoi@88.com.top-FF6A6A?style=flat-square)](mailto:kagurayayoi@88.com)
 ![Visitors](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=fjaxzhy.fjaxzhy.readme)
 
+
+![](https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=.Net&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
+![](https://img.shields.io/badge/-C++-6495ED?style=flat-square&logo=C&logoColor=fff)
+![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=fff)
+
 ![KaguraYayoi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fjaxzhy&layout=compact)
 
 ![KaguraYayoi's github stats](https://github-readme-stats.vercel.app/api?username=Fjaxzhy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
