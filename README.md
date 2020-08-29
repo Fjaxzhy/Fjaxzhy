@@ -7,8 +7,8 @@ _Hope we can meet in a more open parallel world._
     最近在搞Bot和学习Python (酷Q R.I.P.)
     目前方向是Telegram.Bot和Mirai.Bot
 
-![Top Langs](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=Fjaxzhy&hide=html)
-![KaguraYayoi's stats](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=Fjaxzhy&show_icons=true&count_private=true&line_height=33.99)
+![KaguraYayoi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fjaxzhy&layout=compact)
+![KaguraYayoi's github stats](https://github-readme-stats.vercel.app/api?username=Fjaxzhy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!--
 写过的项目有：<br>
