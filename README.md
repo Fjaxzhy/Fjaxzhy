@@ -3,9 +3,13 @@
 _Hope we can meet in a more open parallel world._
 
     一个专业是物联网的喜欢写程序的肥宅
-    主要使用C# Java和C++也稍微会些
+    主要使用C# Java和C++也稍微会些 
     最近在搞Bot和学习Python (酷Q R.I.P.)
     目前方向是Telegram.Bot和Mirai.Bot
+[![GitHub](https://img.shields.io/badge/GitHub-Fjaxzhy-00BFFF?style=flat-square&logo=github)](https://github.com/fjaxzhy)
+[![Telegram](https://img.shields.io/badge/Telegram-@kagurayayoi-00BFFF?style=flat-square&logo=telegram)](https://t.me/kagurayayoi)
+[![Blog](https://img.shields.io/badge/Blog-kagurayayoi.top-00BFFF?style=flat-square)](https://kagurayayoi.top)
+
 ![Visitors](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=fjaxzhy.fjaxzhy.readme)
 
 ![KaguraYayoi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fjaxzhy&layout=compact)
@@ -22,7 +26,7 @@ _Hope we can meet in a more open parallel world._
 <!-->
 
 ### KaguraYayoi's Projects
-|项目名|项目介绍|编写语言|语言版本/SDK|程序版本|状态
+|项目名|项目介绍|编写语言|开发环境/语言版本/SDK|程序版本|状态
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |[MspCalculator](https://github.com/Fjaxzhy/MspCalculator)|计算器|C#|.Net Framework 4.5.2|Ver.2.0|停更
 |[Temperature & Humidity Sensor](https://github.com/Fjaxzhy/Temperature-and-Humidity-Sensor)|温湿度检测器|C++|Arduino/Esp8266_NodeMcu|Ver.1.0|停更
