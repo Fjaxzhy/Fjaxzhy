@@ -6,8 +6,10 @@ _Hope we can meet in a more open parallel world._
     主要使用C# Java和C++也稍微会些
     最近在搞Bot和学习Python (酷Q R.I.P.)
     目前方向是Telegram.Bot和Mirai.Bot
+![Visitors](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=fjaxzhy.fjaxzhy.readme)
 
 ![KaguraYayoi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fjaxzhy&layout=compact)
+
 ![KaguraYayoi's github stats](https://github-readme-stats.vercel.app/api?username=Fjaxzhy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!--
