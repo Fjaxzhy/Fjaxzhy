@@ -6,10 +6,10 @@ _Hope we can meet in a more open parallel world._
     主要使用C# Java和C++也稍微会些 
     最近在搞Bot和学习Python (酷Q R.I.P.)
     目前方向是Telegram.Bot和Mirai.Bot
-[![GitHub](https://img.shields.io/badge/GitHub-Fjaxzhy-00BFFF?style=flat-square&logo=github)](https://github.com/fjaxzhy)
+[![GitHub](https://img.shields.io/badge/GitHub-Fjaxzhy-FF6A6A?style=flat-square&logo=github)](https://github.com/fjaxzhy)
 [![Telegram](https://img.shields.io/badge/Telegram-@kagurayayoi-00BFFF?style=flat-square&logo=telegram)](https://t.me/kagurayayoi)
-[![Blog](https://img.shields.io/badge/Blog-kagurayayoi.top-00BFFF?style=flat-square)](https://kagurayayoi.top)
-
+[![Blog](https://img.shields.io/badge/Blog-kagurayayoi.top-FF6A6A?style=flat-square)](https://kagurayayoi.top)
+[![Mail](https://img.shields.io/badge/Mail-kagurayayoi@88.com.top-FF6A6A?style=flat-square)](mailto:kagurayayoi@88.com)
 ![Visitors](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=fjaxzhy.fjaxzhy.readme)
 
 ![KaguraYayoi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fjaxzhy&layout=compact)
