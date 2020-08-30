@@ -9,7 +9,7 @@ _Hope we can meet in a more open parallel world._
 [![GitHub](https://img.shields.io/badge/GitHub-Fjaxzhy-FF6A6A?style=flat-square&logo=github)](https://github.com/fjaxzhy)
 [![Telegram](https://img.shields.io/badge/Telegram-@kagurayayoi-00BFFF?style=flat-square&logo=telegram)](https://t.me/kagurayayoi)
 [![Blog](https://img.shields.io/badge/Blog-kagurayayoi.top-FF6A6A?style=flat-square)](https://kagurayayoi.top)
-[![Mail](https://img.shields.io/badge/Mail-kagurayayoi@88.com.top-FF6A6A?style=flat-square)](mailto:kagurayayoi@88.com)
+[![Mail](https://img.shields.io/badge/Mail-kagurayayoi@88.com-FF6A6A?style=flat-square)](mailto:kagurayayoi@88.com)
 ![Visitors](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=fjaxzhy.fjaxzhy.readme)
 
 
