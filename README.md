@@ -6,6 +6,8 @@ _Hope we can meet in a more open parallel world._
     主要使用C# Java和C++也稍微会些 
     最近在搞Bot和学习Python (酷Q R.I.P.)
     目前方向是Telegram.Bot和Mirai.Bot
+    本人已开学 无事勿扰
+    
 [![GitHub](https://img.shields.io/badge/GitHub-Fjaxzhy-FF6A6A?style=flat-square&logo=github)](https://github.com/fjaxzhy)
 [![Telegram](https://img.shields.io/badge/Telegram-@kagurayayoi-00BFFF?style=flat-square&logo=telegram)](https://t.me/kagurayayoi)
 [![Blog](https://img.shields.io/badge/Blog-kagurayayoi.top-FF6A6A?style=flat-square)](https://kagurayayoi.top)
