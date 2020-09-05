@@ -2,6 +2,7 @@
 >**愿我们能在更开放的平行世界相遇** <br>
 >_Hope we can meet in a more open parallel world._
 
+<!--
 <html>
 <iframe
         frameborder="no" 
@@ -13,13 +14,8 @@
         allowfullscreen
         src="https://music.163.com/outchain/player?type=2&id=1474146255&auto=0&height=32"  
 ></iframe>
-<embed 
-       src="//music.163.com/style/swf/widget.swf?sid=1474146255&type=2&auto=0&width=278&height=32" 
-       width="298" 
-       height="52"  
-       allowNetworking="all"
-></embed>
 </html>
+-->
 
     一个专业是物联网的喜欢写程序的肥宅
     主要使用C# Java和C++也稍微会些 
