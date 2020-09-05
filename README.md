@@ -44,4 +44,5 @@ _Hope we can meet in a more open parallel world._
 |[BiliBili_InfoGet_ForCQ](https://github.com/Fjaxzhy/BiliBili_InfoGet_ForCQ)|基于酷QBot的插件:BiliBili信息获取|C#|.Net Framework 4.5/[Native.SDK](https://github.com/Jie2GG/Native.Framework)|Ver.1.0|归档
 |[Hanaya_TgBot](https://github.com/TgBotDev/Hanaya_Telegram.Bot)|Telegram的Bot|C#|.Net Framework 4.5.2/[Telegram.Bot.SDK](https://github.com/TelegramBots/Telegram.Bot)|None|在更
 |[Hanaya_TgBot_Nogui](https://github.com/TgBotDev/Hanaya_TgBot_Nogui)|Hanaya_TgBot的Nogui版本|C#|.Net Framework 4.5/[Telegram.Bot.SDK](https://github.com/TelegramBots/Telegram.Bot)|Ver.Alpha.2.0|主更
-|[KaguraYayoi's Blog](https://kagurayayoi.top/)|本人博客|HTML/CSS/JavaScript/Ruby|Github.io/[mzlogin模板](https://github.com/mzlogin/mzlogin.github.io)|None|随缘
+|[KaguraYayoi's Blog](https://kagurayayoi.top/)|本人博客|HTML/CSS/JavaScript/Ruby|github.io/[mzlogin模板](https://github.com/mzlogin/mzlogin.github.io)|None|随缘
+|[KaguraYayoi's Status](https://kagurayayoi.top/uptime-status/)|网址状态监控|HTML/CSS/JavaScript|geekyouth/[uptime-status](https://github.com/geekyouth/uptime-status)|None|随缘
