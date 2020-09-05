@@ -1,6 +1,8 @@
 ## KaguraYayoi  神楽弥生
-**愿我们能在更开放的平行世界相遇** <br>
-_Hope we can meet in a more open parallel world._
+>**愿我们能在更开放的平行世界相遇** <br>
+>_Hope we can meet in a more open parallel world._
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1474146255&auto=1&height=66"></iframe>
 
     一个专业是物联网的喜欢写程序的肥宅
     主要使用C# Java和C++也稍微会些 
