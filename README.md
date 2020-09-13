@@ -31,11 +31,14 @@
 ![Visitors](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=fjaxzhy.fjaxzhy.readme)
 
 
-![](https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=.Net&logoColor=fff)
-![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
-![](https://img.shields.io/badge/-C++-6495ED?style=flat-square&logo=C&logoColor=fff)
-![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
+[![](https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=.Net&logoColor=fff)](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
+[![](https://img.shields.io/badge/-%2ENet%20Framework-purple?style=flat-square&logo=.Net&logoColor=fff)](https://dotnet.microsoft.com/download)
+[![](https://img.shields.io/badge/-%2ENet%20Core-purple?style=flat-square&logo=.Net&logoColor=fff)](https://dotnet.microsoft.com/download)
+[![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/java/)
+[![](https://img.shields.io/badge/-C++-6495ED?style=flat-square&logo=C&logoColor=fff)](https://zh.cppreference.com/)
+
+[![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)](https://www.microsoft.com/zh-cn/windows)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=fff)
 
@@ -62,3 +65,4 @@
 |[Hanaya_TgBot_Nogui](https://github.com/TgBotDev/Hanaya_TgBot_Nogui)|Hanaya_TgBot的Nogui版本|C#|.Net Framework 4.5/[Telegram.Bot.SDK](https://github.com/TelegramBots/Telegram.Bot)|Ver.Alpha.2.0|主更
 |[KaguraYayoi's Blog](https://kagurayayoi.top/)|本人博客|HTML/CSS/JavaScript/Ruby|github.io/[mzlogin模板](https://github.com/mzlogin/mzlogin.github.io)|None|随缘
 |[KaguraYayoi's Status](https://kagurayayoi.top/uptime-status/)|网站状态实时监测|HTML/CSS/JavaScript|geekyouth/[uptime-status](https://github.com/geekyouth/uptime-status)|None|随缘
+|[KaguraYayoi's Introduction](https://kagurayayoi.icu)|个人介绍页/H5+CSS3练手|HTML/CSS/JavaScript|HBuilderX|None|随缘
