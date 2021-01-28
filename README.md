@@ -23,6 +23,7 @@
     目前整活方向是QQMini.Bot和Telegram.Bot
     本人已开学 无事勿扰
     
+<!---
 [![GitHub](https://img.shields.io/badge/GitHub-Fjaxzhy-FF6A6A?style=flat-square&logo=github)](https://github.com/fjaxzhy)
 [![GitHub](https://img.shields.io/badge/GitHub-KagruaYayoi-FF6A6A?style=flat-square&logo=github)](https://github.com/kagurayayoi)
 [![Telegram](https://img.shields.io/badge/Telegram-@kagurayayoi-00BFFF?style=flat-square&logo=telegram)](https://t.me/kagurayayoi)
@@ -30,7 +31,7 @@
 [![Mail](https://img.shields.io/badge/Mail-kagurayayoi@88.com-458B00?style=flat-square)](mailto:kagurayayoi@88.com)
 ![Visitors](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=fjaxzhy.fjaxzhy.readme)
 
-
+<!---
 [![](https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=.Net&logoColor=fff)](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
 [![](https://img.shields.io/badge/-%2ENet%20Framework-purple?style=flat-square&logo=.Net&logoColor=fff)](https://dotnet.microsoft.com/download)
 [![](https://img.shields.io/badge/-%2ENet%20Core-purple?style=flat-square&logo=.Net&logoColor=fff)](https://dotnet.microsoft.com/download)
@@ -38,13 +39,16 @@
 [![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/java/)
 [![](https://img.shields.io/badge/-C++-6495ED?style=flat-square&logo=C&logoColor=fff)](https://zh.cppreference.com/)
 
+<!---
 [![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)](https://www.microsoft.com/zh-cn/windows)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=fff)
-
+<!---
 ![KaguraYayoi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fjaxzhy&layout=compact)
-
+<!---
 ![KaguraYayoi's github stats](https://github-readme-stats.vercel.app/api?username=Fjaxzhy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+-->
 
 <!--
 写过的项目有：<br>
