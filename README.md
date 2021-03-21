@@ -2,6 +2,8 @@
 >**愿我们能在更开放的平行世界相遇** <br>
 >_Hope we can meet in a more open parallel world._
 
+![Fjaxzhy](https://count.getloli.com/get/@:Fjaxzhy)
+
 <!--
 <html>
 <iframe
@@ -57,8 +59,9 @@
 [BiliBili_InfoGet_ForCQ](https://github.com/Fjaxzhy/BiliBili_InfoGet_ForCQ) 基于酷Q的插件:BiliBili信息获取 C#(.NetFramework 4.5) [Native.SDK](https://github.com/Jie2GG/Native.Framework)   |  因酷Q停运 停更/归档 <br>
 [Hanaya_TgBot](https://github.com/TgBotDev/Hanaya_Telegram.Bot) Telegram.Bot C#(.NetFramework4.5.2) [Telegram.Bot.SDK](https://github.com/TelegramBots/Telegram.Bot)  |  在更 <br>
 [Hanaya_TgBot_Nogui](https://github.com/TgBotDev/Hanaya_TgBot_Nogui) Hanaya_TgBot的Nogui版本 C#(.NetFramework4.5.2) [Telegram.Bot.SDK](https://github.com/TelegramBots/Telegram.Bot)  |  主要更新  <br>
-<!-->
+-->
 
+<!--
 ### KaguraYayoi's Projects
 |项目名|项目介绍|编写语言|开发环境/语言版本/SDK|程序版本|状态
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -70,3 +73,5 @@
 |[KaguraYayoi's Blog](https://kagurayayoi.top/)|本人博客|HTML/CSS/JavaScript/Ruby|github.io/[mzlogin模板](https://github.com/mzlogin/mzlogin.github.io)|None|随缘
 |[KaguraYayoi's Status](https://kagurayayoi.top/uptime-status/)|网站状态实时监测|HTML/CSS/JavaScript|geekyouth/[uptime-status](https://github.com/geekyouth/uptime-status)|None|随缘
 |[KaguraYayoi's Introduction](https://kagurayayoi.icu)|个人介绍页/H5+CSS3练手|HTML/CSS/JavaScript|HBuilderX|None|随缘
+-->
+
