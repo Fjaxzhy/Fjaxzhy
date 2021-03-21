@@ -22,10 +22,11 @@
 -->
 
 >个人介绍
-一个专业是物联网的喜欢写程序的肥宅
-主要使用C# Java和C++也稍微会些 
-最近在搞Bot和学习Python (酷Q R.I.P.)
-目前整活方向是QQMini.Bot和Telegram.Bot
+
+一个专业是物联网的喜欢写程序的肥宅 <br>
+主要使用C# Java和C++也稍微会些 <br>
+最近在搞Bot和学习Python (酷Q R.I.P.) <br>
+目前整活方向是QQMini.Bot和Telegram.Bot <br>
 本人已开学 无事勿扰
     
 <!---
