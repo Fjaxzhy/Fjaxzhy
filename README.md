@@ -32,7 +32,7 @@
 >**引用**
 
 + **头像** <br> [画师] 양갱/ようかん <br> [作品] 遊び (信息来自SauceNAO Pixiv无)
-+ **~~老婆~~** <br> [画师] ふぇありぃあい <br> [作品] けもみみ (https://www.pixiv.net/artworks/72203964) <br> 图是自己用Photoshop扣的 质量极差
++ **~~老婆~~** <br> [画师] ふぇありぃあい <br> [作品] けもみみ (https://www.pixiv.net/artworks/72203964) <br> 图是自己用Photoshop扣的 质量极差 <br> ~~这画师的图是真戳我xp~~
 
 <!---
 [![GitHub](https://img.shields.io/badge/GitHub-Fjaxzhy-FF6A6A?style=flat-square&logo=github)](https://github.com/fjaxzhy)
