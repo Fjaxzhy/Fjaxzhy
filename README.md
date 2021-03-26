@@ -36,7 +36,7 @@
 [![Mail](https://img.shields.io/badge/Mail-kagurayayoi@88.com-458B00?style=flat-square)](mailto:kagurayayoi@88.com)
 
 [![](https://img.shields.io/badge/C%23-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![](https://img.shields.io/badge/-%2NET-purple?style=flat-square&logo=.Net&logoColor=fff)](https://dotnet.microsoft.com/download)
+[![](https://img.shields.io/badge/-%2ENET-purple?style=flat-square&logo=.Net&logoColor=fff)](https://dotnet.microsoft.com/)
 [![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/java/)
 [![](https://img.shields.io/badge/-C++-6495ED?style=flat-square&logo=C&logoColor=fff)](https://zh.cppreference.com/)
