@@ -28,7 +28,6 @@
 最近在搞Bot和学习Python&Android (酷Q R.I.P.) <br>
 目前整活方向是搞个gocq的C#SDK(在看Yukari大佬的Sora) <br>
 本人是学生 无事勿扰
-
 <details>
     <summary><strong>联系方式</strong></summary>
 
@@ -37,7 +36,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@kagurayayoi-00BFFF?style=flat-square&logo=telegram)](https://t.me/kagurayayoi)
 [![Blog](https://img.shields.io/badge/Blog-kagurayayoi.top-FF6A6A?style=flat-square)](https://kagurayayoi.top)
 [![Mail](https://img.shields.io/badge/Mail-kagurayayoi@88.com-458B00?style=flat-square)](mailto:kagurayayoi@88.com)
-
 </details>
 <details>
     <summary><strong>Programming Language</strong></summary>
@@ -47,7 +45,6 @@
 [![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/java/)
 [![](https://img.shields.io/badge/-C++-6495ED?style=flat-square&logo=C&logoColor=fff)](https://zh.cppreference.com/)
-
 </details>
 <details>
     <summary><strong>IDE / Editor</strong></summary>
@@ -57,7 +54,6 @@
 [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-red?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/idea/)
 [![](https://img.shields.io/badge/IDE-PyCharm-green?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/pycharm/)
 [![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
-
 </details>
 
 >**引用**
@@ -66,7 +62,6 @@
 	
 + [画师] 양갱/ようかん 
 + [作品] 遊び (信息来自SauceNAO Pixiv无)
-
 </details>
 <details>
     <summary><strong><s>老婆</s></strong></summary>
@@ -76,7 +71,6 @@
 
 图是自己用Photoshop扣的 质量极差 <br>
 ~~这画师的图是真戳我xp~~
-
 </details>
 
 <!--
