@@ -29,23 +29,36 @@
 目前整活方向是搞个gocq的C#SDK(在看Yukari大佬的Sora) <br>
 本人是学生 无事勿扰
 
+<details>
+    <summary><strong>联系方式</strong></summary>
+
 [![GitHub](https://img.shields.io/badge/GitHub-Fjaxzhy-FF6A6A?style=flat-square&logo=github)](https://github.com/fjaxzhy)
 [![GitHub](https://img.shields.io/badge/GitHub-KagruaYayoi-FF6A6A?style=flat-square&logo=github)](https://github.com/kagurayayoi)
 [![Telegram](https://img.shields.io/badge/Telegram-@kagurayayoi-00BFFF?style=flat-square&logo=telegram)](https://t.me/kagurayayoi)
 [![Blog](https://img.shields.io/badge/Blog-kagurayayoi.top-FF6A6A?style=flat-square)](https://kagurayayoi.top)
 [![Mail](https://img.shields.io/badge/Mail-kagurayayoi@88.com-458B00?style=flat-square)](mailto:kagurayayoi@88.com)
 
+</details>
+<details>
+    <summary><strong>Programming Language</strong></summary>
+	
 [![](https://img.shields.io/badge/C%23-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![](https://img.shields.io/badge/-%2ENET-purple?style=flat-square&logo=.Net&logoColor=fff)](https://dotnet.microsoft.com/)
 [![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/java/)
 [![](https://img.shields.io/badge/-C++-6495ED?style=flat-square&logo=C&logoColor=fff)](https://zh.cppreference.com/)
 
+</details>
+<details>
+    <summary><strong>IDE / Editor</strong></summary>
+
 [![](https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/zh-hans/)
 [![](https://img.shields.io/badge/IDE-Android%20Studio-blue?style=flat-square&logo=android-studio)](http://www.android-studio.org/)
 [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-red?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/idea/)
 [![](https://img.shields.io/badge/IDE-PyCharm-green?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/pycharm/)
 [![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+
+</details>
 
 >**引用**
 <details>
