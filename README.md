@@ -30,7 +30,7 @@
 本人是学生 无事勿扰
 <details>
     <summary><strong>联系方式</strong></summary>
-
+	
 [![GitHub](https://img.shields.io/badge/GitHub-Fjaxzhy-FF6A6A?style=flat-square&logo=github)](https://github.com/fjaxzhy)
 [![GitHub](https://img.shields.io/badge/GitHub-KagruaYayoi-FF6A6A?style=flat-square&logo=github)](https://github.com/kagurayayoi)
 [![Telegram](https://img.shields.io/badge/Telegram-@kagurayayoi-00BFFF?style=flat-square&logo=telegram)](https://t.me/kagurayayoi)
