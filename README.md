@@ -1,4 +1,4 @@
-<img align="right" src="https://cdn.jsdelivr.net/gh/Fjaxzhy/Fjaxzhy/kyimg.png" width='380px'>
+<img align="right" src="https://cdn.jsdelivr.net/gh/Fjaxzhy/Fjaxzhy/kyimg.png" width='380px' alt="老婆">
 
 ## KaguraYayoi  神楽弥生
 >**愿我们能在更开放的平行世界相遇** <br>
