@@ -56,7 +56,7 @@
 
 </details>
 <details>
-    <summary><strong>老婆</strong></summary>
+    <summary><strong><s>老婆</s></strong></summary>
 
 + [画师] ふぇありぃあい
 + [作品] けもみみ (https://www.pixiv.net/artworks/72203964)
