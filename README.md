@@ -28,6 +28,9 @@
 最近在搞Bot和学习Python&Android (酷Q R.I.P.) <br>
 目前整活方向是搞个gocq的C#SDK(在看Yukari大佬的Sora) <br>
 本人是学生 无事勿扰
+
+<img align="left" src="https://cdn.jsdelivr.net/gh/Fjaxzhy/Fjaxzhy/Kagamihara_Nadeshiko.png" width='380px' alt="老婆">
+
 <details>
     <summary><strong>联系方式</strong></summary>
 	
