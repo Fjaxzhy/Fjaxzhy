@@ -39,7 +39,7 @@
 [![Mail](https://img.shields.io/badge/Mail-kagurayayoi@88.com-458B00?style=flat-square)](mailto:kagurayayoi@88.com)
 </details>
 <details>
-	<summary>Top Language</summary>
+	<summary><strong>Top Language</strong></summary>
 	
 ![KaguraYayoi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fjaxzhy&layout=compact)
 </details>
