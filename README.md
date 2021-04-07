@@ -39,6 +39,11 @@
 [![Mail](https://img.shields.io/badge/Mail-kagurayayoi@88.com-458B00?style=flat-square)](mailto:kagurayayoi@88.com)
 </details>
 <details>
+	<summary>Top Language</summary>
+	
+![KaguraYayoi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fjaxzhy&layout=compact)
+</details>
+<details>
     <summary><strong>Programming Language</strong></summary>
 	
 [![](https://img.shields.io/badge/C%23-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
