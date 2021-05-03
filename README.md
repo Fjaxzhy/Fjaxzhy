@@ -45,7 +45,8 @@
 > [![Blog](https://img.shields.io/badge/Blog-kagurayayoi.top-FF6A6A?style=flat-square)](https://kagurayayoi.top)
 > <br>
 > 个人邮箱 <br>
-> [![Mail](https://img.shields.io/badge/Mail-kagurayayoi@88.com-458B00?style=flat-square)](mailto:kagurayayoi@88.com)
+> [![Mail](https://img.shields.io/badge/GMail-fjaxzhy@gmail.com-458B00?style=flat-square&logo=gmail)](mailto:fjaxzhy@gmail.com)
+> [![Mail](https://img.shields.io/badge/88Mail-kagurayayoi@88.com-458B00?style=flat-square)](mailto:kagurayayoi@88.com)
 </details>
 <details>
 	<summary><strong>Top Language</strong></summary>
@@ -74,11 +75,17 @@
 <details>
     <summary><strong>IDE / Editor</strong></summary>
 
-[![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/zh-hans/)
-[![IDE](https://img.shields.io/badge/IDE-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=fff)](http://www.android-studio.org/)
-[![IDE](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-red?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/idea/)
-[![IDE](https://img.shields.io/badge/IDE-PyCharm-green?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/pycharm/)
-[![Editor](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+> 常用 <br>
+> [![OS](https://img.shields.io/badge/Windows10-0078d6?style=flat-square&logo=windows&logoColor=fff)](https://www.microsoft.com/zh-cn/windows)
+> [![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/zh-hans/)
+> [![IDE](https://img.shields.io/badge/IDE-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=fff)](http://www.android-studio.org/)
+> [![IDE](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-red?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/idea/)
+> <br>
+> 其他 <br>
+> [![IDE](https://img.shields.io/badge/IDE-PyCharm-green?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/pycharm/)
+> [![IDE](https://img.shields.io/badge/IDE-Goland-1E90FF?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/goland/)
+> [![Editor](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+> [![Editor](https://img.shields.io/badge/Editor-Sublime%20Text-FFB90F?style=flat-square)](https://www.sublimetext.com/3)
 </details>
 
 >**引用**
