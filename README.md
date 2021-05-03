@@ -73,17 +73,22 @@
 > [![Vuejs](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=fff)](https://vuejs.org/)
 </details>
 <details>
-    <summary><strong>IDE / Editor</strong></summary>
+    <summary><strong>Development Environment</strong></summary>
 
-> 常用 <br>
+> Platform <br>
 > [![OS](https://img.shields.io/badge/Windows10-0078d6?style=flat-square&logo=windows&logoColor=fff)](https://www.microsoft.com/zh-cn/windows)
-> [![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/zh-hans/)
-> [![IDE](https://img.shields.io/badge/IDE-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=fff)](http://www.android-studio.org/)
-> [![IDE](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-red?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/idea/)
 > <br>
-> 其他 <br>
-> [![IDE](https://img.shields.io/badge/IDE-PyCharm-green?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/pycharm/)
-> [![IDE](https://img.shields.io/badge/IDE-Goland-1E90FF?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/goland/)
+> Application Development
+> [![IDE](https://img.shields.io/badge/Microsoft-Visual%20Studio-purple?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/zh-hans/)
+> [![IDE](https://img.shields.io/badge/Google-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=fff)](http://www.android-studio.org/)
+> [![IDE](https://img.shields.io/badge/JetBrains-IntelliJ%20IDEA-red?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/idea/)
+> [![IDE](https://img.shields.io/badge/JetBrains-PyCharm-green?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/pycharm/)
+> [![IDE](https://img.shields.io/badge/JetBrains-Goland-1E90FF?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/goland/)
+> <br>
+> Website Development <br>
+> [![HBuilderX](https://img.shields.io/badge/DCloud-HBuilderX-green?style=flat-square&logo=hbuilderx)](https://www.dcloud.io/)
+> <br>
+> Text Editor <br>
 > [![Editor](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 > [![Editor](https://img.shields.io/badge/Editor-Sublime%20Text-FFB90F?style=flat-square)](https://www.sublimetext.com/3)
 </details>
