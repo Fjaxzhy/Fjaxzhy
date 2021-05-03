@@ -31,12 +31,21 @@
 
 <details>
     <summary><strong>联系方式</strong></summary>
-	
-[![GitHub](https://img.shields.io/badge/GitHub-Fjaxzhy-FF6A6A?style=flat-square&logo=github)](https://github.com/fjaxzhy)
-[![GitHub](https://img.shields.io/badge/GitHub-KagruaYayoi-FF6A6A?style=flat-square&logo=github)](https://github.com/kagurayayoi)
-[![Telegram](https://img.shields.io/badge/Telegram-@kagurayayoi-00BFFF?style=flat-square&logo=telegram)](https://t.me/kagurayayoi)
-[![Blog](https://img.shields.io/badge/Blog-kagurayayoi.top-FF6A6A?style=flat-square)](https://kagurayayoi.top)
-[![Mail](https://img.shields.io/badge/Mail-kagurayayoi@88.com-458B00?style=flat-square)](mailto:kagurayayoi@88.com)
+
+> 开源社区账号 <br>
+> [![GitHub](https://img.shields.io/badge/GitHub-Fjaxzhy-FF6A6A?style=flat-square&logo=github)](https://github.com/fjaxzhy)
+> [![GitHub](https://img.shields.io/badge/GitHub-KagruaYayoi-FF6A6A?style=flat-square&logo=github)](https://github.com/kagurayayoi)
+> [![Gitee](https://img.shields.io/badge/Gitee-KaguraYayoi-FF6A6A?style=flat-square&logo=gitee)](https://gitee.com/kagurayayoi)
+> <br>
+> 社交平台账号 <br>
+> [![Telegram](https://img.shields.io/badge/Telegram-@kagurayayoi-00BFFF?style=flat-square&logo=telegram)](https://t.me/kagurayayoi)
+> [![BiliBili](https://img.shields.io/badge/BiliBili-KaguraYayoi-FB7299?style=flat-square&logo=bilibili)](https://space.bilibili.com/157623239)
+> <br>
+> 个人网站 <br>
+> [![Blog](https://img.shields.io/badge/Blog-kagurayayoi.top-FF6A6A?style=flat-square)](https://kagurayayoi.top)
+> <br>
+> 个人邮箱 <br>
+> [![Mail](https://img.shields.io/badge/Mail-kagurayayoi@88.com-458B00?style=flat-square)](mailto:kagurayayoi@88.com)
 </details>
 <details>
 	<summary><strong>Top Language</strong></summary>
