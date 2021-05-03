@@ -86,7 +86,7 @@
 > [![IDE](https://img.shields.io/badge/JetBrains-Goland-1E90FF?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/goland/)
 > <br>
 > Website Development <br>
-> [![HBuilderX](https://img.shields.io/badge/DCloud-HBuilderX-green?style=flat-square&logo=hbuilderx)](https://www.dcloud.io/)
+> [![HBuilderX](https://img.shields.io/badge/DCloud-HBuilderX-green?style=flat-square&logo=hbuilder)](https://www.dcloud.io/)
 > <br>
 > Text Editor <br>
 > [![Editor](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
