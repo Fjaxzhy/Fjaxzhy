@@ -25,7 +25,7 @@
 
 一个专业是物联网的喜欢写程序的肥宅 <br>
 主要使用C# Java和C++也稍微会些 <br>
-最近在搞Bot和学习Python&Android (酷Q R.I.P.) <br>
+最近在搞Bot和学习各个语言 ~~~我怎么什么都学~~~ (酷Q R.I.P.) <br>
 目前整活方向是开发 开黑啦语音平台BotSDK for C# <br>
 本人是学生 无事勿扰
 
@@ -46,11 +46,20 @@
 <details>
     <summary><strong>Programming Language</strong></summary>
 	
-[![](https://img.shields.io/badge/C%23-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![](https://img.shields.io/badge/-%2ENET-purple?style=flat-square&logo=.Net&logoColor=fff)](https://dotnet.microsoft.com/)
-[![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
-[![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/java/)
-[![](https://img.shields.io/badge/-C++-6495ED?style=flat-square&logo=C&logoColor=fff)](https://zh.cppreference.com/)
+> 还算会写 <br>
+[![CSharp](https://img.shields.io/badge/C%23-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![dotNET](https://img.shields.io/badge/-%2ENET-purple?style=flat-square&logo=.Net&logoColor=fff)](https://dotnet.microsoft.com/)
+<br>
+
+> 会一点点 <br>
+[![Cpp](https://img.shields.io/badge/-C++-6495ED?style=flat-square&logo=C&logoColor=fff)](https://zh.cppreference.com/)
+[![Java](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/java/)
+<br>
+
+> 正在学习 <br>
+[![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=fff)](https://golang.google.cn/)
+[![Python](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 </details>
 <details>
     <summary><strong>IDE / Editor</strong></summary>
