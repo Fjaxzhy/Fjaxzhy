@@ -86,11 +86,15 @@
 > [![IDE](https://img.shields.io/badge/JetBrains-Goland-1E90FF?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/goland/)
 > <br>
 > Website Development <br>
-> [![HBuilderX](https://img.shields.io/badge/DCloud-HBuilderX-green?style=flat-square&logo=hbuilder)](https://www.dcloud.io/)
+> [![HBuilderX](https://img.shields.io/badge/DCloud-HBuilderX-green?style=flat-square&logo=hbuilderx)](https://www.dcloud.io/)
+> [![AxureRP](https://img.shields.io/badge/Solutions-Axure%20RP-FF00FF?style=flat-square&logo=axurerp)](https://www.axure.com/)
 > <br>
 > Text Editor <br>
 > [![Editor](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 > [![Editor](https://img.shields.io/badge/Editor-Sublime%20Text-FFB90F?style=flat-square)](https://www.sublimetext.com/3)
+> <br>
+> Tool <br>
+> [![Git](https://img.shields.io/badge/Git-yellow?style=flat-square&logo=git)](https://git-scm.com/)
 </details>
 
 >**引用**
