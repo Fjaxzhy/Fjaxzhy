@@ -47,28 +47,29 @@
     <summary><strong>Programming Language</strong></summary>
 	
 > 还算会写 <br>
-[![CSharp](https://img.shields.io/badge/C%23-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![dotNET](https://img.shields.io/badge/-%2ENET-purple?style=flat-square&logo=.Net&logoColor=fff)](https://dotnet.microsoft.com/)
-<br>
-
+> [![CSharp](https://img.shields.io/badge/C%23-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+> [![dotNET](https://img.shields.io/badge/-%2ENET-purple?style=flat-square&logo=.Net&logoColor=fff)](https://dotnet.microsoft.com/)
+> <br>
 > 会一点点 <br>
-[![Cpp](https://img.shields.io/badge/-C++-6495ED?style=flat-square&logo=C&logoColor=fff)](https://zh.cppreference.com/)
-[![Java](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/java/)
-<br>
-
+> [![Cpp](https://img.shields.io/badge/-C++-6495ED?style=flat-square&logo=C&logoColor=fff)](https://zh.cppreference.com/)
+> [![Java](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/java/)
+> [![HTML](https://img.shields.io/badge/-HTML-FF4500?style=flat-square&logo=Html5&logoColor=fff)](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
+> [![CSS](https://img.shields.io/badge/-CSS-4682B4?style=flat-square&logo=CSS3&logoColor=fff)](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
+> <br>
 > 正在学习 <br>
-[![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=fff)](https://golang.google.cn/)
-[![Python](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+> [![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=fff)](https://golang.google.cn/)
+> [![Python](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
+> [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+> [![Vuejs](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=fff)](https://vuejs.org/)
 </details>
 <details>
     <summary><strong>IDE / Editor</strong></summary>
 
-[![](https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/zh-hans/)
-[![](https://img.shields.io/badge/IDE-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=fff)](http://www.android-studio.org/)
-[![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-red?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/idea/)
-[![](https://img.shields.io/badge/IDE-PyCharm-green?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/pycharm/)
-[![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/zh-hans/)
+[![IDE](https://img.shields.io/badge/IDE-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=fff)](http://www.android-studio.org/)
+[![IDE](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-red?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/idea/)
+[![IDE](https://img.shields.io/badge/IDE-PyCharm-green?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/pycharm/)
+[![Editor](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 </details>
 
 >**引用**
