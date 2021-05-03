@@ -78,7 +78,7 @@
 > Platform <br>
 > [![OS](https://img.shields.io/badge/Windows10-0078d6?style=flat-square&logo=windows&logoColor=fff)](https://www.microsoft.com/zh-cn/windows)
 > <br>
-> Application Development
+> Application Development <br>
 > [![IDE](https://img.shields.io/badge/Microsoft-Visual%20Studio-purple?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/zh-hans/)
 > [![IDE](https://img.shields.io/badge/Google-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=fff)](http://www.android-studio.org/)
 > [![IDE](https://img.shields.io/badge/JetBrains-IntelliJ%20IDEA-red?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/idea/)
