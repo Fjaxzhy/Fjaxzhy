@@ -56,7 +56,7 @@
 <details>
 	<summary><strong>WakaTime Stats</strong></summary>
 	
-![KaguraYayoi's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KaguraYayoi&layout=compact)
+![KaguraYayoi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KaguraYayoi&layout=compact)
 </details>
 <details>
     <summary><strong>Programming Language</strong></summary>
