@@ -26,7 +26,7 @@
 一个专业是物联网的喜欢写程序的肥宅 <br>
 主要使用C# Java和C++也稍微会些 <br>
 最近在搞Bot和学习各个语言 ~~我怎么什么都学~~ (酷Q R.I.P.) <br>
-目前整活方向是开发 开黑啦语音平台BotSDK for C# <br>
+目前整活方向是PhigrosDB-Project <br>
 本人是学生 无事勿扰
 
 <details>
