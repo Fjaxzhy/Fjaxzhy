@@ -110,7 +110,7 @@
 <details>
 	<summary><strong>Github Activity Graph</strong></summary>
 	
-![kagurayayoi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Fjaxzhy&bg_color=ffffff&color=70bcff&line=6b9fff&point=0136f4&area=true&hide_border=true)
+![kagurayayoi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Fjaxzhy&bg_color=ffffff&color=0095d9&line=00a3af&point=00a497&area=false&hide_border=true)
 </details>
 
 >**引用**
