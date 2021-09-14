@@ -53,11 +53,12 @@
 	
 ![KaguraYayoi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fjaxzhy&layout=compact)
 </details>
+<!--
 <details>
 	<summary><strong>WakaTime Stats</strong></summary>
 	
 ![KaguraYayoi's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KaguraYayoi&layout=compact)
-</details>
+</details>  --->
 <details>
 	<summary><strong>Metrics</strong></summary>
 	
