@@ -53,17 +53,6 @@
 	
 ![KaguraYayoi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fjaxzhy&layout=compact)
 </details>
-<!--
-<details>
-	<summary><strong>WakaTime Stats</strong></summary>
-	
-![KaguraYayoi's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KaguraYayoi&layout=compact)
-</details>  --->
-<details>
-	<summary><strong>Metrics</strong></summary>
-	
-![Metrics](https://metrics.lecoq.io/fjaxzhy?template=terminal&gists=1&discussions=1&activity=1&projects=1&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FShanghai)
-</details>
 <details>
     <summary><strong>Programming Language</strong></summary>
 	
@@ -106,6 +95,17 @@
 > <br>
 > Tool <br>
 > [![Git](https://img.shields.io/badge/Git-yellow?style=flat-square&logo=git)](https://git-scm.com/)
+</details>
+<!--
+<details>
+	<summary><strong>WakaTime Stats</strong></summary>
+	
+![KaguraYayoi's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KaguraYayoi&layout=compact)
+</details>  --->
+<details>
+	<summary><strong>Metrics</strong></summary>
+	
+![Metrics](https://metrics.lecoq.io/fjaxzhy?template=terminal&gists=1&discussions=1&activity=1&projects=1&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FShanghai)
 </details>
 <details>
 	<summary><strong>Github Activity Graph</strong></summary>
