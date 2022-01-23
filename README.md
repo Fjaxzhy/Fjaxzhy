@@ -59,10 +59,10 @@
 > 还算会写 <br>
 > [![CSharp](https://img.shields.io/badge/C%23-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 > [![dotNET](https://img.shields.io/badge/-%2ENET-purple?style=flat-square&logo=.Net&logoColor=fff)](https://dotnet.microsoft.com/)
+> [![Java](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/java/)
 > <br>
 > 会一点点 <br>
 > [![Cpp](https://img.shields.io/badge/-C++-6495ED?style=flat-square&logo=C&logoColor=fff)](https://zh.cppreference.com/)
-> [![Java](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/java/)
 > [![HTML](https://img.shields.io/badge/-HTML-FF4500?style=flat-square&logo=Html5&logoColor=fff)](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
 > [![CSS](https://img.shields.io/badge/-CSS-4682B4?style=flat-square&logo=CSS3&logoColor=fff)](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
 > <br>
