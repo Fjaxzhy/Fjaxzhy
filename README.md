@@ -1,8 +1,10 @@
 <img align="right" src="https://cdn.jsdelivr.net/gh/Fjaxzhy/Fjaxzhy/kyimg.png" width='380px' alt="老婆">
 
 ## KaguraYayoi  神楽弥生
->**愿我们能在更开放的平行世界相遇** <br>
->_Hope we can meet in a more open parallel world._
+<!-- >**愿我们能在更开放的平行世界相遇** <br>
+>_Hope we can meet in a more open parallel world._ -->
+>>**永远与你在一起** <br>
+>_Be With You All The Time._
 
 ![Fjaxzhy](https://count.getloli.com/get/@:Fjaxzhy)
 
