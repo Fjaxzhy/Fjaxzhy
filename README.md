@@ -86,9 +86,8 @@
 > [![IDE](https://img.shields.io/badge/PyCharm-green?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/pycharm/)
 > [![IDE](https://img.shields.io/badge/Goland-1E90FF?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/goland/)
 > <br>
-> Website Development <br>
-> [![HBuilderX](https://img.shields.io/badge/DCloud-HBuilderX-green?style=flat-square&logo=hbuilderx)](https://www.dcloud.io/)
-> [![AxureRP](https://img.shields.io/badge/Solutions-Axure%20RP-FF00FF?style=flat-square&logo=axurerp)](https://www.axure.com/)
+<!-- > Website Development <br>
+> [![HBuilderX](https://img.shields.io/badge/DCloud-HBuilderX-green?style=flat-square&logo=hbuilderx)](https://www.dcloud.io/) -->
 > <br>
 > Text Editor <br>
 > [![Editor](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
@@ -96,6 +95,7 @@
 > <br>
 > Tool <br>
 > [![Git](https://img.shields.io/badge/Git-yellow?style=flat-square&logo=git)](https://git-scm.com/)
+> [![AxureRP](https://img.shields.io/badge/Solutions-Axure%20RP-FF00FF?style=flat-square&logo=axurerp)](https://www.axure.com/)
 </details>
 <!--
 <details>
