@@ -85,9 +85,6 @@
 > [![IDE](https://img.shields.io/badge/PyCharm-green?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/pycharm/)
 > [![IDE](https://img.shields.io/badge/Goland-1E90FF?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/goland/)
 > <br>
-<!-- > Website Development <br>
-> [![HBuilderX](https://img.shields.io/badge/DCloud-HBuilderX-green?style=flat-square&logo=hbuilderx)](https://www.dcloud.io/) -->
-> <br>
 > Text Editor <br>
 > [![Editor](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 > [![Editor](https://img.shields.io/badge/Editor-Sublime%20Text-FFB90F?style=flat-square)](https://www.sublimetext.com/3)
