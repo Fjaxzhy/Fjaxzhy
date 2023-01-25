@@ -117,9 +117,11 @@
 
 最后来看看我最近的~~摸鱼~~数据!
 
+![kagurayayoi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Fjaxzhy&theme=dracula)
+![KaguraYayoi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fjaxzhy&layout=compact)
 <details>
 	<summary><strong>WakaTime Stats</strong></summary>
-	
+
 ![KaguraYayoi's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KaguraYayoi&layout=compact)
 </details>  
 <details>
@@ -127,8 +129,6 @@
 	
 ![Metrics](https://metrics.lecoq.io/fjaxzhy?template=terminal&gists=1&discussions=1&activity=1&projects=1&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FShanghai)
 </details>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Fjaxzhy&theme=dracula)]()
 
 >**引用**
 <details>
@@ -185,7 +185,7 @@
 
 <!-- buffer
 
-    ![KaguraYayoi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fjaxzhy&layout=compact)
+    
 
     
 
