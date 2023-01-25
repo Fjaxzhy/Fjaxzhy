@@ -1,17 +1,17 @@
 <!-- background image -->
 <img align="right" src="https://cdn.jsdelivr.net/gh/Fjaxzhy/Fjaxzhy/src/image/background.png" width='380px' alt="老婆">
 
-<!-- Header : Introduction -->
+<!-- Section : Introduction -->
 ## KaguraYayoi 笨蛋弥生
->_Be With You All The Time._
+>_Be With You All The Time._ <br>
 <!-- @deprecated : Updated
     >**愿我们能在更开放的平行世界相遇** <br>
     >_Hope we can meet in a more open parallel world._
 -->
 
-<!-- Header : Visitors -->
-![Fjaxzhy](https://count.getloli.com/get/@:Fjaxzhy)
-
+<!-- Section : Visitors & last-commit -->
+![Visitors](https://count.getloli.com/get/@:Fjaxzhy)
+![lastcommit](https://img.shields.io/github/last-commit/fjaxzhy/fjaxzhy?logo=GitHub&style=flat-square)
 <!-- @deprecated : GitHub unsupported CloudMusic iframe
     <html>
         <iframe
@@ -27,7 +27,7 @@
     </html> 
 -->
 
-<!-- Header : About me -->
+<!-- Section : About me -->
 <!-- @deprecated : GitHub unsupported CSS
     <div class="section-title">
         <img class="section-title-icon" src="./src/svg/about.svg"/>
@@ -35,9 +35,14 @@
     </div> 
 -->
 ## About me
-专科笨蛋 偶尔码点屎山   <br>
-游戏菜逼 先天听力残疾   <br>
+专科笨蛋 偶尔会码点屎山 <br>
+游戏菜逼 先天性听力残疾 <br>
 死二次元 ~~百合萌豚贴贴~~ <br>
+开心就好 想要探索很多好玩的 ~~(没钱)~~
+<hr>
+
+<!-- Section : Social -->
+
 你也许可以在以下地方找到我 ~~(大概)~~
 <!-- tags -->
 > 开源社区账号 <br>
@@ -51,56 +56,57 @@
 >[![Bangumi](https://img.shields.io/badge/Bangumi-@kagurayayoi-FB7299?style=flat-square&logo=bilibili)](https://bgm.tv/user/kagurayayoi)
 >[![Steam](https://img.shields.io/badge/Steam-KaguraYayoi-274d69?style=flat-square&logo=Steam)](https://steamcommunity.com/id/kagurayayoi)
 > <br>
-> 个人网站 <br>
+> 博客门户 <br>
 > [![Blog](https://img.shields.io/badge/Blog-kagurayayoi.top-FF6A6A?style=flat-square)](https://kagurayayoi.top)
 > <br>
-> 个人邮箱 <br>
+> 电子邮箱 <br>
 > [![Mail](https://img.shields.io/badge/GMail-fjaxzhy@gmail.com-458B00?style=flat-square&logo=gmail)](mailto:fjaxzhy@gmail.com)
 > [![Mail](https://img.shields.io/badge/88Mail-kagurayayoi@88.com-458B00?style=flat-square)](mailto:kagurayayoi@88.com)
 
+<!-- Section : Programming -->
 
-
-
-<details>
-    <summary><strong>Programming Language</strong></summary>
-	
+然后是程序设计上的一些学习
+<!-- tags -->
 > 还算会写 <br>
 > [![CSharp](https://img.shields.io/badge/C%23-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-> [![dotNET](https://img.shields.io/badge/-%2ENET-purple?style=flat-square&logo=.Net&logoColor=fff)](https://dotnet.microsoft.com/)
 > [![Java](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/java/)
 > <br>
-> 会一点点 <br>
+> 也许会写 <br>
 > [![Cpp](https://img.shields.io/badge/-C++-6495ED?style=flat-square&logo=C&logoColor=fff)](https://zh.cppreference.com/)
+> [![Python](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
 > [![HTML](https://img.shields.io/badge/-HTML-FF4500?style=flat-square&logo=Html5&logoColor=fff)](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
 > [![CSS](https://img.shields.io/badge/-CSS-4682B4?style=flat-square&logo=CSS3&logoColor=fff)](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
-> <br>
-> 正在学习 <br>
-> [![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=fff)](https://golang.google.cn/)
-> [![Python](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
 > [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
-> [![Vuejs](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=fff)](https://vuejs.org/)
-</details>
-<details>
-    <summary><strong>Development Environment</strong></summary>
+> <br>
+> _以上所有和其他一些都在努力学了别骂了呜呜呜_
 
-> Platform <br>
-> [![OS](https://img.shields.io/badge/Windows10-0078d6?style=flat-square&logo=windows&logoColor=fff)](https://www.microsoft.com/zh-cn/windows)
+接下来是我的开发环境
+
+> Operating System <br>
+> [![OS](https://img.shields.io/badge/Windows_11-0078d6?style=flat-square&logo=windows&logoColor=fff)](https://www.microsoft.com/zh-cn/windows)
+> [![OS](https://img.shields.io/badge/Windows_Server_12r2-0078d6?style=flat-square&logo=windows&logoColor=fff)](https://www.microsoft.com/zh-cn/windows)
+> [![OS](https://img.shields.io/badge/Windows_Server_08r2-0078d6?style=flat-square&logo=windows&logoColor=fff)](https://www.microsoft.com/zh-cn/windows)
 > <br>
-> Application Development <br>
-> [![IDE](https://img.shields.io/badge/Visual%20Studio-purple?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/zh-hans/)
-> [![IDE](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=fff)](http://www.android-studio.org/)
-> [![IDE](https://img.shields.io/badge/IntelliJ%20IDEA-red?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/idea/)
-> [![IDE](https://img.shields.io/badge/PyCharm-green?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/pycharm/)
-> [![IDE](https://img.shields.io/badge/Goland-1E90FF?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/goland/)
+> Integrated Development Environment <br>
+> [![vs](https://img.shields.io/badge/Visual%20Studio-purple?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/zh-hans/)
+> [![IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-red?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/idea/)
+> [![Rider](https://img.shields.io/badge/Rider-red?style=flat-square&logo=Rider)](https://www.jetbrains.com/rider/)
+> [![CLion](https://img.shields.io/badge/CLion-greed?style=flat-square&logo=clion)](https://www.jetbrains.com/clion/)
+> [![PyCharm](https://img.shields.io/badge/PyCharm-greed?style=flat-square&logo=pycharm)](https://www.jetbrains.com/pycharm/)
+> [![GoLand](https://img.shields.io/badge/Goland-1E90FF?style=flat-square&logo=goland)](https://www.jetbrains.com/goland/)
+> [![Android](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=fff)](http://www.android-studio.org/)
 > <br>
-> Text Editor <br>
-> [![Editor](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
-> [![Editor](https://img.shields.io/badge/Editor-Sublime%20Text-FFB90F?style=flat-square)](https://www.sublimetext.com/3)
+> Editor <br>
+> [![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 > <br>
 > Tool <br>
+> [![Apifox](https://img.shields.io/badge/Apifox-red?style=flat-square&logo=postman)](https://apifox.cn/)
 > [![Git](https://img.shields.io/badge/Git-yellow?style=flat-square&logo=git)](https://git-scm.com/)
-> [![AxureRP](https://img.shields.io/badge/Solutions-Axure%20RP-FF00FF?style=flat-square&logo=axurerp)](https://www.axure.com/)
-</details>
+> [![DataGrip](https://img.shields.io/badge/DataGrip-purple?style=flat-square&logo=datagrip)](https://www.jetbrains.com/datagrip/)
+> [![dotPeek](https://img.shields.io/badge/decompiler-dotPeek-purple?style=flat-square)](https://www.jetbrains.com/dotpeek/)
+> [![Fiddler](https://img.shields.io/badge/web_debugger-Fiddler_Classic-greed?style=flat-square)](https://www.telerik.com/fiddler/fiddler-classic)
+
+
 <!--
 <details>
 	<summary><strong>WakaTime Stats</strong></summary>
@@ -175,4 +181,11 @@
 
     ![KaguraYayoi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fjaxzhy&layout=compact)
 
+    > [![DotNET](https://img.shields.io/badge/-%2ENET-purple?style=flat-square&logo=.Net&logoColor=fff)](https://dotnet.microsoft.com/)
+
+-->
+
+<!-- Backup tags
+    > [![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=fff)](https://golang.google.cn/)
+    > [![Vuejs](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=fff)](https://vuejs.org/)
 -->
