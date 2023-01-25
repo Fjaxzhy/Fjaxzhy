@@ -9,9 +9,10 @@
     >_Hope we can meet in a more open parallel world._
 -->
 
-<!-- Section : Visitors & last-commit -->
+<!-- Section : Visitors & last-commit & followers -->
 ![Visitors](https://count.getloli.com/get/@:Fjaxzhy)
 ![lastcommit](https://img.shields.io/github/last-commit/fjaxzhy/fjaxzhy?logo=GitHub&style=flat-square)
+![followers](https://img.shields.io/github/followers/fjaxzhy?logo=Github&style=flat-square)
 <!-- @deprecated : GitHub unsupported CloudMusic iframe
     <html>
         <iframe
@@ -115,6 +116,8 @@
 
 <hr>
 
+<!-- Section : Graph -->
+
 最后来看看我最近的~~摸鱼~~数据!
 
 ![kagurayayoi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Fjaxzhy&theme=dracula)
@@ -130,22 +133,24 @@
 ![Metrics](https://metrics.lecoq.io/fjaxzhy?template=terminal&gists=1&discussions=1&activity=1&projects=1&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FShanghai)
 </details>
 
->**引用**
-<details>
-    <summary><strong>头像</strong></summary>
-	
-+ [画师] 양갱/ようかん 
-+ [作品] 遊び (信息来自SauceNAO Pixiv无)
-</details>
-<details>
-    <summary><strong><s>老婆</s></strong></summary>
+<!-- @deprecated : Section : References
+    **References**
+    <details>
+        <summary><strong>头像</strong></summary>
+        
+    + [画师] 양갱/ようかん 
+    + [作品] 遊び (信息来自SauceNAO Pixiv无)
+    </details>
+    <details>
+        <summary><strong><s>老婆</s></strong></summary>
 
-+ [画师] ふぇありぃあい
-+ [作品] けもみみ (https://www.pixiv.net/artworks/72203964)
+    + [画师] ふぇありぃあい
+    + [作品] けもみみ (https://www.pixiv.net/artworks/72203964)
 
-图是自己用Photoshop扣的 质量极差 <br>
-~~这画师的图是真戳我xp~~
-</details>
+    图是自己用Photoshop扣的 质量极差 <br>
+    ~~这画师的图是真戳我xp~~
+    </details>
+-->
 
 <!-- @deprecated : GitHub unsupported CSS
     <!-- global CSS ->
