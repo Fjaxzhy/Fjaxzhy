@@ -48,7 +48,8 @@
 > 社交平台账号 <br>
 > [![Telegram](https://img.shields.io/badge/Telegram-@kagurayayoi-00BFFF?style=flat-square&logo=telegram)](https://t.me/kagurayayoi)
 > [![BiliBili](https://img.shields.io/badge/BiliBili-KaguraYayoi-FB7299?style=flat-square&logo=bilibili)](https://space.bilibili.com/157623239)
->[![Bangumi](https://img.shields.io/badge/Bangumi-kagurayayoi-FB7299?style=flat-square&logo=bilibili)](https://bgm.tv/user/kagurayayoi)
+>[![Bangumi](https://img.shields.io/badge/Bangumi-@kagurayayoi-FB7299?style=flat-square&logo=bilibili)](https://bgm.tv/user/kagurayayoi)
+>[![Steam](https://img.shields.io/badge/Steam-KaguraYayoi-274d69?style=flat-square&logo=Steam)](https://steamcommunity.com/id/kagurayayoi)
 > <br>
 > 个人网站 <br>
 > [![Blog](https://img.shields.io/badge/Blog-kagurayayoi.top-FF6A6A?style=flat-square)](https://kagurayayoi.top)
