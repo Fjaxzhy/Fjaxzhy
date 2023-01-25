@@ -12,7 +12,7 @@
 <!-- Header : Visitors -->
 ![Fjaxzhy](https://count.getloli.com/get/@:Fjaxzhy)
 
-<!-- @deprecated : 网易云音乐前端嵌入不适用GitHub
+<!-- @deprecated : GitHub unsupported CloudMusic iframe
     <html>
         <iframe
             frameborder="no" 
@@ -28,13 +28,17 @@
 -->
 
 <!-- Header : About me -->
-<div class="section-title">
-    <img class="section-title-icon" src="./src/svg/about.svg"/>
-    <p>About me</p>
-</div>
+>## About me
 专科笨蛋 偶尔码点屎山   <br>
 游戏菜逼 先天听力残疾   <br>
-死二次元 ~~百合萌豚贴贴~~   <br>
+死二次元 ~~百合萌豚贴贴~~
+![KaguraYayoi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fjaxzhy&layout=compact)
+<!-- @deprecated : GitHub unsupported CSS
+    <div class="section-title">
+        <img class="section-title-icon" src="./src/svg/about.svg"/>
+        <p>About me</p>
+    </div> 
+-->
 
 <details>
     <summary><strong>联系方式</strong></summary>
@@ -54,11 +58,6 @@
 > 个人邮箱 <br>
 > [![Mail](https://img.shields.io/badge/GMail-fjaxzhy@gmail.com-458B00?style=flat-square&logo=gmail)](mailto:fjaxzhy@gmail.com)
 > [![Mail](https://img.shields.io/badge/88Mail-kagurayayoi@88.com-458B00?style=flat-square)](mailto:kagurayayoi@88.com)
-</details>
-<details>
-	<summary><strong>Top Language</strong></summary>
-	
-![KaguraYayoi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fjaxzhy&layout=compact)
 </details>
 <details>
     <summary><strong>Programming Language</strong></summary>
@@ -134,32 +133,38 @@
 ~~这画师的图是真戳我xp~~
 </details>
 
-<!-- global CSS -->
-<head>
-    <style>
-        .section-title-icon {
-            width         : 1.75em;
-            height        : 1.75em;
-            vertical-align: middle;
-            padding-right : 0.25em;
-        }
-        .section-title p {
-            font-size: 1.25em;
-            margin   : 0em;
-            flex     : 1;
-        }
-        .section-title p span {
-            font-size: .8em;
-            margin   : 0em;
-        }
-        .section-title span {
-            padding-right: 1em;
-        }
-    </style>
-</head>
+<!-- @deprecated : GitHub unsupported CSS
+    <!-- global CSS ->
+    <head>
+        <style>
+            .section-title-icon {
+                width         : 1.75em;
+                height        : 1.75em;
+                vertical-align: middle;
+                padding-right : 0.25em;
+            }
+            .section-title p {
+                font-size: 1.25em;
+                margin   : 0em;
+                flex     : 1;
+            }
+            .section-title p span {
+                font-size: .8em;
+                margin   : 0em;
+            }
+            .section-title span {
+                padding-right: 1em;
+            }
+        </style>
+    </head> 
+-->
 
 <!-- template -->
 
 <!-- link
     CDN : https://cdn.jsdelivr.net/gh/Fjaxzhy/Fjaxzhy/src/
+-->
+
+<!-- tag markdown
+    [![tag](https://img.shields.io/badge/(tag)-(content)-(HEX-color)?style=flat-square&logo=(logo))]((target link))
 -->
