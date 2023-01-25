@@ -28,28 +28,27 @@
 -->
 
 <!-- Header : About me -->
-## About me
-专科笨蛋 偶尔码点屎山   <br>
-游戏菜逼 先天听力残疾   <br>
-死二次元 ~~百合萌豚贴贴~~
 <!-- @deprecated : GitHub unsupported CSS
     <div class="section-title">
         <img class="section-title-icon" src="./src/svg/about.svg"/>
         <p>About me</p>
     </div> 
 -->
-
-<details>
-    <summary><strong>联系方式</strong></summary>
-
+## About me
+专科笨蛋 偶尔码点屎山   <br>
+游戏菜逼 先天听力残疾   <br>
+死二次元 ~~百合萌豚贴贴~~ <br>
+你也许可以在以下地方找到我 ~~(大概)~~
+<!-- tags -->
 > 开源社区账号 <br>
 > [![GitHub](https://img.shields.io/badge/GitHub-Fjaxzhy-FF6A6A?style=flat-square&logo=github)](https://github.com/fjaxzhy)
 > [![GitHub](https://img.shields.io/badge/GitHub-KagruaYayoi-FF6A6A?style=flat-square&logo=github)](https://github.com/kagurayayoi)
 > [![Gitee](https://img.shields.io/badge/Gitee-KaguraYayoi-FF6A6A?style=flat-square&logo=gitee)](https://gitee.com/kagurayayoi)
-> <br>
+> <br> 
 > 社交平台账号 <br>
 > [![Telegram](https://img.shields.io/badge/Telegram-@kagurayayoi-00BFFF?style=flat-square&logo=telegram)](https://t.me/kagurayayoi)
 > [![BiliBili](https://img.shields.io/badge/BiliBili-KaguraYayoi-FB7299?style=flat-square&logo=bilibili)](https://space.bilibili.com/157623239)
+>[![Bangumi](https://img.shields.io/badge/Bangumi-kagurayayoi-FB7299?style=flat-square&logo=bilibili)](https://bgm.tv/user/kagurayayoi)
 > <br>
 > 个人网站 <br>
 > [![Blog](https://img.shields.io/badge/Blog-kagurayayoi.top-FF6A6A?style=flat-square)](https://kagurayayoi.top)
@@ -57,7 +56,10 @@
 > 个人邮箱 <br>
 > [![Mail](https://img.shields.io/badge/GMail-fjaxzhy@gmail.com-458B00?style=flat-square&logo=gmail)](mailto:fjaxzhy@gmail.com)
 > [![Mail](https://img.shields.io/badge/88Mail-kagurayayoi@88.com-458B00?style=flat-square)](mailto:kagurayayoi@88.com)
-</details>
+
+
+
+
 <details>
     <summary><strong>Programming Language</strong></summary>
 	
