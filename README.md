@@ -28,11 +28,10 @@
 -->
 
 <!-- Header : About me -->
->## About me
+## About me
 专科笨蛋 偶尔码点屎山   <br>
 游戏菜逼 先天听力残疾   <br>
 死二次元 ~~百合萌豚贴贴~~
-![KaguraYayoi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fjaxzhy&layout=compact)
 <!-- @deprecated : GitHub unsupported CSS
     <div class="section-title">
         <img class="section-title-icon" src="./src/svg/about.svg"/>
@@ -167,4 +166,10 @@
 
 <!-- tag markdown
     [![tag](https://img.shields.io/badge/(tag)-(content)-(HEX-color)?style=flat-square&logo=(logo))]((target link))
+-->
+
+<!-- buffer
+
+    ![KaguraYayoi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fjaxzhy&layout=compact)
+
 -->
