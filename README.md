@@ -119,14 +119,27 @@
 <!-- Section : Graph -->
 
 最后来看看我最近的~~摸鱼~~数据!
+<table> <!-- template by EpicMo -->
+  <tr>
+    <th>
+      <img alt="KaguraYayoi's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Fjaxzhy&show_icons=true&theme=transparent&hide_border=true" align="center" />
+    </th>
+    <th>
+      <img alt="KaguraYayoi's Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fjaxzhy&layout=compact&theme=transparent&hide_border=true&langs_count=10&hide=CMake" align="center" /> 
+    </th>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <img alt="KaguraYayoi's Waka Time Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=KaguraYayoi&hide_border=true&layout=compact&theme=transparent&custom_title=WorkTimeThisWeek" align="center"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <img alt="KaguraYayoi's Github Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Fjaxzhy&theme=dracula" align="center"/>
+    </td>
+  </tr>
+</table>
 
-![kagurayayoi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Fjaxzhy&theme=dracula)
-![KaguraYayoi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fjaxzhy&layout=compact)
-<details>
-	<summary><strong>WakaTime Stats</strong></summary>
-
-![KaguraYayoi's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KaguraYayoi&layout=compact)
-</details>  
 <details>
 	<summary><strong>Metrics</strong></summary>
 	
@@ -178,24 +191,12 @@
     </head> 
 -->
 
-<!-- template -->
-
 <!-- link
     CDN : https://cdn.jsdelivr.net/gh/Fjaxzhy/Fjaxzhy/src/
 -->
 
 <!-- tag markdown
     [![tag](https://img.shields.io/badge/(tag)-(content)-(HEX-color)?style=flat-square&logo=(logo))]((target link))
--->
-
-<!-- buffer
-
-    
-
-    
-
-    https://github.com/ashutosh00710/github-readme-activity-graph
-
 -->
 
 <!-- Backup tags
