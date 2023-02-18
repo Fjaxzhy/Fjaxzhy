@@ -93,7 +93,7 @@
 > <br>
 > Runtime <br>
 > [![DotNET](https://img.shields.io/badge/-%2ENET_6/7-512BD4?style=flat-square&logo=.Net&logoColor=fff)](https://dotnet.microsoft.com/)
-> [![JDK](https://img.shields.io/badge/JDK-red?style=flat-square&logo=&logoColor=fff)](https://www.oracle.com/java/)
+> [![JDK](https://img.shields.io/badge/Oracle-JDK-red?style=flat-square&logo=&logoColor=fff)](https://www.oracle.com/java/)
 > <br>
 > Integrated Development Environment <br>
 > [![vs](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/zh-hans/)
