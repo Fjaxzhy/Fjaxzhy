@@ -89,6 +89,7 @@
 > [![OS](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows&logoColor=fff)](https://www.microsoft.com/zh-cn/windows)
 > [![OS](https://img.shields.io/badge/Windows_Server_12r2-0078d6?style=flat-square&logo=windows&logoColor=fff)](https://www.microsoft.com/zh-cn/windows)
 > [![OS](https://img.shields.io/badge/Windows_Server_08r2-0078d6?style=flat-square&logo=windows&logoColor=fff)](https://www.microsoft.com/zh-cn/windows)
+> [![OS](https://img.shields.io/badge/Manjaro_Sikaris-35BF5C?style=flat-square&logo=manjaro&logoColor=fff)](https://manjaro.org)
 > <br>
 > Runtime <br>
 > [![DotNET](https://img.shields.io/badge/-%2ENET_6/7-512BD4?style=flat-square&logo=.Net&logoColor=fff)](https://dotnet.microsoft.com/)
