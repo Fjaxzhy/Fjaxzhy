@@ -120,8 +120,9 @@
 <!-- Section : Graph -->
 
 
-<!-- 最后来看看我最近的~~摸鱼~~数据!
-<table> <!-- template by EpicMo -->
+<!-- 最后来看看我最近的~~摸鱼~~数据! -->
+<!-- template by EpicMo -->
+<!-- <table> 
   <tr>
     <th>
       <img alt="KaguraYayoi's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Fjaxzhy&show_icons=true&theme=transparent&hide_border=true" align="center" />
