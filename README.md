@@ -119,6 +119,7 @@
 
 <!-- Section : Graph -->
 
+<!--
 最后来看看我最近的~~摸鱼~~数据!
 <table> <!-- template by EpicMo -->
   <tr>
@@ -145,7 +146,7 @@
 	<summary><strong>Metrics</strong></summary>
 	
 ![Metrics](https://metrics.lecoq.io/fjaxzhy?template=terminal&gists=1&discussions=1&activity=1&projects=1&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FShanghai)
-</details>
+</details> -->
 
 <!-- @deprecated : Section : References
     **References**
