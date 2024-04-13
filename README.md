@@ -120,8 +120,10 @@
 <!-- Section : Bangumi -->
 <details>
 	<summary><strong>bangumi.tv</strong></summary>
-	
-![bangumi](https://github.com/Fjaxzhy/bangumi-action/raw/main/bgm/card.svg)
+
+|Bangumi.TV|
+|------|
+|![bangumi](https://github.com/Fjaxzhy/bangumi-action/raw/main/bgm/card.svg)|
 </details>
 
 <!-- Section : Graph -->
