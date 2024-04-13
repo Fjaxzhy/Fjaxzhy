@@ -117,9 +117,14 @@
 
 <hr>
 
+<!-- Section : Bangumi -->
+<details>
+	<summary><strong>bangumi.tv</strong></summary>
+	
+![bangumi](https://github.com/Fjaxzhy/bangumi-action/raw/main/bgm/card.svg)
+</details>
+
 <!-- Section : Graph -->
-
-
 <!-- 最后来看看我最近的~~摸鱼~~数据! -->
 <!-- template by EpicMo -->
 <!-- <table> 
